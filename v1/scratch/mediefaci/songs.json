@@ -1,0 +1,26 @@
+{
+    "1": {
+        "title": "Au Cœur De Paris",
+        "author": "Befaci",
+        "optional_options": {
+            "source": "Suno",
+            "author": "befacimusic",
+            "url": "",
+            "lyric": {
+                "1": ""
+            }
+        }
+    },
+    "2": {
+        "title": "",
+        "author": "",
+        "optional_options": {
+            "source": "",
+            "author": "",
+            "url": "",
+            "lyric": {
+                "1": ""
+            }
+        }
+    }
+}
