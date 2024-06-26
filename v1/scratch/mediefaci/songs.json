@@ -2,10 +2,11 @@
     "1": {
         "title": "Au Cœur De Paris",
         "author": "Befaci",
+        "sound_url": "",
         "optional_options": {
             "source": "Suno",
             "author": "befacimusic",
-            "url": "",
+            "source_url": "",
             "lyric": {
                 "1": ""
             }
